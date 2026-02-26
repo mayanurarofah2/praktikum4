@@ -9,19 +9,19 @@
 }
 
 .bg-sidebar {
-    background: #3d68ff;
+    background: #2a7b9d;
 }
 
 .cta-btn {
-    color: #3d68ff;
+    color: #246e8a;
 }
 
 .upgrade-btn {
-    background: #1947ee;
+    background: #217082;
 }
 
 .upgrade-btn:hover {
-    background: #0038fd;
+    background: #adc2cb;
 }
 
 .active-nav-link {
