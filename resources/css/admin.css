@@ -25,13 +25,13 @@
 }
 
 .active-nav-link {
-    background: #1947ee;
+    background: #32353d;
 }
 
 .nav-item:hover {
-    background: #1947ee;
+    background: #6c6f78;
 }
 
 .account-link:hover {
-    background: #3d68ff;
+    background: #3e424f;
 }
