@@ -50,7 +50,7 @@
     @endif
 
     {{-- Top Bar --}}
-    <nav class="w-full bg-gray-800 border-b shadow-sm">
+    <nav class="w-full bg-red-800 border-b shadow-sm">
         <div class="max-w-7xl mx-auto px-6 py-3 flex items-center justify-between">
 
             <div class="flex items-center gap-6">
