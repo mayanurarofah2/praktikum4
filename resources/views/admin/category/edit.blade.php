@@ -4,7 +4,7 @@
             <div class="flex items-center justify-between mb-8">
                 <div>
                     <h1 class="text-3xl font-semibold text-gray-800">Edit Category</h1>
-                    <p class="text-gray-500">Update category details and hierarchy.</p>
+                    <p class="text-gray-500">maya.</p>
                 </div>
                 <div class="flex items-center gap-2">
                     <a href="{{ route('admin.category.index') }}"
